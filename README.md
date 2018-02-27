@@ -1,1 +1,1 @@
-# HTML
+Hello, welcome to the HTML repository. I am currently in the process of learning HTML and JavaScript. I am using this space to store any files that I create during the learning process. Thanks for looking. Cheers.
